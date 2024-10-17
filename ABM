@@ -1,5 +1,5 @@
 getgenv().Setting = {
-    ["Team"] = "Marines", -- Marines / Pirates
+    ["Team"] = "Pirates", -- Marines / Pirates
     ["Auto Random & Store & Get Fruit"] = true,
     ["Use Move Predict"] = true,
     ["Hit and Run"] = true,
